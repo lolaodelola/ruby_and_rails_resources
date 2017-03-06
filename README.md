@@ -9,7 +9,7 @@ I know people who have wanted to learn ruby or rails or both and haven't been su
 - **[Code Wars](https://www.codewars.com)**: An online database of excercises for various coding languages. -___Free___
 - **[Project Euler](https://projecteuler.net)**: An online database of excercises for various coding languages. - ___Free___ (This will be more suited for those who feel comfortable enough to run ruby scripts on their own machines)
 - **[Why's Poignant Guide to Ruby](http://poignant.guide/book/)**: An online book that's easy to read with lots of comic-like strips and easy to understand phrases.___Free___
-- **[Agile Venture's](http://www.agileventures.org)**: A non-profit dedicated to crowdsourced learning and project development by working on client projects. ___Free & Paid ___
+- **[Agile Venture's](http://www.agileventures.org)**: A non-profit dedicated to crowdsourced learning and project development by working on client projects. ***Free & Paid***
 
 ## Rails
 - **[Codecademy](https://codecademy.com)**: An online tutorial site for various coding languages. - ___Free & Paid___ 
