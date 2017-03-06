@@ -1,0 +1,1 @@
+# ruby_and_rails_resources
