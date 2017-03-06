@@ -3,7 +3,7 @@
 I know people who have wanted to learn ruby or rails or both and haven't been sure where to start. So here's a list of stuff I found useful when I began learning and a list of stuff other people found useful. This list isn't just for beginners either, many of the links on here are sites I visit weekly, if not daily. If you have any sites you found useful submit a PR with your submission & I'll add it in. Please follow the format of the list as it currently is so that things remain consistent & easy to find.
 
 ## Ruby
-- **[Ruby Methods](http://ruby-doc.org/core-2.4.0/Method.html)**: A list of ruby methods and classes. - ___Free___
+- **[Ruby API](http://ruby-doc.org/core-2.4.0/Method.html)**: A list of ruby methods and classes. - ___Free___
 - **[Codecademy](https://codecademy.com)**: An online tutorial site for various coding languages. -___Free & Paid___
 - **[Team Treehouse](https://teamtreehouse.com)**: An online tutorial site for various coding languages. -___Paid___
 - **[Code Wars](https://www.codewars.com)**: An online database of excercises for various coding languages. -___Free___
