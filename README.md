@@ -35,4 +35,4 @@ Contributing to an open source project is always free and a great way to not onl
 
 ## Video Subscription
 - **[GoRails](https://gorails.com/)**: - Rails training videos. -___Free & Paid___
-- **[Ruby Tapas](https://www.rubytapas.com/)**: - Short and sweet Ruby screencasts. -___Free & Paid___
+- **[Ruby Tapas](https://www.rubytapas.com/)**: - Short and sweet Ruby screencasts. -___Paid___
