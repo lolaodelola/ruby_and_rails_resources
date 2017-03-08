@@ -29,10 +29,10 @@ Contributing to an open source project is always free and a great way to not onl
 - **[the North West Ruby User's Group](https://groups.google.com/forum/#!forum/nwrug-members)**: A monthly meetup for Ruby Users in the North West of England, held in Manchester, however even if you're not in the North West, the google forum is a great source of knowledge. -___Free___
 
 ## Mailing Lists and Feeds
-- **[Ruby Weekly](http://rubyweekly.com/) - a weekly collection of Ruby news and articles. -___Free___
-- **[Green Ruby](http://greenruby.org/) - another weekly collection of news and articles. -___Free___
-- **[Ruby Flow](http://www.rubyflow.com/) - a feed of Ruby related news -___Free___
+- **[Ruby Weekly](http://rubyweekly.com/)**: - a weekly collection of Ruby news and articles. -___Free___
+- **[Green Ruby](http://greenruby.org/)**: - another weekly collection of news and articles. -___Free___
+- **[Ruby Flow](http://www.rubyflow.com/)**: - a feed of Ruby related news -___Free___
 
 ## Video Subscription
-- **[GoRails](https://gorails.com/) - Rails training videos. -___Free & Paid___
-- **[Ruby Tapas](https://www.rubytapas.com/) - Short and sweet Ruby screencasts. -___Free & Paid___
+- **[GoRails](https://gorails.com/)**: - Rails training videos. -___Free & Paid___
+- **[Ruby Tapas](https://www.rubytapas.com/)**: - Short and sweet Ruby screencasts. -___Free & Paid___
