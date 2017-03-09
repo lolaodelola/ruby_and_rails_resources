@@ -27,5 +27,5 @@ Contributing to an open source project is always free and a great way to not onl
 - **[Stack Overflow](https://stackoverflow.com)**: An online question forum, a good place to search for answers if you get stuck. -___Free___
 - **[the London Ruby User's Group](http://lrug.org)**: A monthly meetup for Ruby users in London, however even if you're not in London the mailing list is a great source of knowledge. -___Free___ 
 - **[the North West Ruby User's Group](https://groups.google.com/forum/#!forum/nwrug-members)**: A monthly meetup for Ruby Users in the North West of England, held in Manchester, however even if you're not in the North West, the google forum is a great source of knowledge. -___Free___ 
-- **[London Learn Ruby Meetup](https://www.meetup.com/London-Learn-Ruby/)**: A weekly Ruby workshop in London with a small group of students learning through a professional Ruby coach.
-- **[London Learn Ruby on Rails Meetup](https://www.meetup.com/London-Learn-Ruby-on-Rails/)**: A weekly Ruby on Rails workshop in London with a small group of students learning through a professional Ruby on Rails coach.
+- **[London Learn Ruby Meetup](https://www.meetup.com/London-Learn-Ruby/)**: A weekly Ruby workshop in London with a small group of students learning through a professional Ruby coach. - ___Paid___ 
+- **[London Learn Ruby on Rails Meetup](https://www.meetup.com/London-Learn-Ruby-on-Rails/)**: A weekly Ruby on Rails workshop in London with a small group of students learning through a professional Ruby on Rails coach. - ___Paid___
