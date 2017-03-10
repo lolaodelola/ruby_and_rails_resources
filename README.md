@@ -11,13 +11,18 @@ I know people who have wanted to learn ruby or rails or both and haven't been su
 _(This will be more suited for those who feel comfortable enough to run ruby scripts on their own machines)_
 - **[Why's Poignant Guide to Ruby](http://poignant.guide/book/)**: An online book that's easy to read with lots of comic-like strips and easy to understand phrases.- ___Free___
 - **[Agile Venture's](http://www.agileventures.org)**: A non-profit dedicated to crowdsourced learning and project development by working on client projects. - ***Free & Paid***
+- **[Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)**: An online book for beginners (with exercises) that teaches the basics of Ruby. - ***Free***
+- **[I Love Ruby](https://mindaslab.github.io/I-Love-Ruby/)**: An online book for beginners (with code examples) that teaches the basics of Ruby. - ***Free***
 - **[Ruby Tapas](https://www.rubytapas.com/)**: - Short and sweet Ruby screencasts. -___Paid___
 
 ## Rails
 - **[Codecademy](https://codecademy.com)**: An online tutorial site for various coding languages. - ___Free & Paid___ 
 - **[Team Treehouse](https://teamtreehouse.com)**: An online tutorial site for various coding languages. - ___Paid___ 
 - **[Rails API](http://api.rubyonrails.org)**: The Ruby on Rails API, which includes a list of methods and classes. -___Free___ 
-- **[Rails Guide](http://guides.rubyonrails.org)**: The official Rails guide. -___Free___
+- **[Rails Guide](http://guides.rubyonrails.org)**: The official Rails guide. -___Free___ 
+- **[Ruby on Rails Tutorial](https://www.railstutorial.org/book)**: An introduction to web development using Ruby on Rails. -___Free___
+- **[Rails Link Resources](https://github.com/railslink/resources/wiki)**: A GitHub repo from Rails Link with many links to resources like books, screencasts, blogs, etc. -___Free___
+- **[The Odin Project](http://www.theodinproject.com/)**: An online course that covers full stack web development (Ruby, Rails, HTML5, CSS3, JavaScript) and helps building a portfolio and getting hired. -___Free___
 - **[GoRails](https://gorails.com/)**: - Rails training videos. -___Free & Paid___
 
 ## Open Source Projects
@@ -34,7 +39,7 @@ Contributing to an open source project is always free and a great way to not onl
 - **[Stack Overflow](https://stackoverflow.com)**: An online question forum, a good place to search for answers if you get stuck. -___Free___
 - **[the London Ruby User's Group](http://lrug.org)**: A monthly meetup for Ruby users in London, however even if you're not in London the mailing list is a great source of knowledge. -___Free___ 
 - **[the North West Ruby User's Group](https://groups.google.com/forum/#!forum/nwrug-members)**: A monthly meetup for Ruby Users in the North West of England, held in Manchester, however even if you're not in the North West, the google forum is a great source of knowledge. -___Free___ 
+- **[Ruby on Rails Link](http://www.rubyonrails.link/)**: A Slack community of Ruby on Rails developers from all over the world. -___Free___
 - **[London Learn Ruby Meetup](https://www.meetup.com/London-Learn-Ruby/)**: A weekly Ruby workshop in London with a small group of students learning through a professional Ruby coach. - ___Paid___ 
 - **[London Learn Ruby on Rails Meetup](https://www.meetup.com/London-Learn-Ruby-on-Rails/)**: A weekly Ruby on Rails workshop in London with a small group of students learning through a professional Ruby on Rails coach. - ___Paid___
 - **[Ruby North East Slack Group](http://rubynortheast.co.uk/)**: A Slack group with occasional meetups within North East England. - ___Free___
-
