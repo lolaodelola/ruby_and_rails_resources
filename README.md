@@ -13,6 +13,7 @@ _(This will be more suited for those who feel comfortable enough to run ruby scr
 - **[Agile Venture's](http://www.agileventures.org)**: A non-profit dedicated to crowdsourced learning and project development by working on client projects. - ***Free & Paid***
 - **[Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)**: An online book for beginners (with exercises) that teaches the basics of Ruby. - ***Free***
 - **[I Love Ruby](https://mindaslab.github.io/I-Love-Ruby/)**: An online book for beginners (with code examples) that teaches the basics of Ruby. - ***Free***
+- **[Ruby Tapas](https://www.rubytapas.com/)**: - Short and sweet Ruby screencasts. -___Paid___
 
 ## Rails
 - **[Codecademy](https://codecademy.com)**: An online tutorial site for various coding languages. - ___Free & Paid___ 
@@ -22,14 +23,23 @@ _(This will be more suited for those who feel comfortable enough to run ruby scr
 - **[Ruby on Rails Tutorial](https://www.railstutorial.org/book)**: An introduction to web development using Ruby on Rails. -___Free___
 - **[Rails Link Resources](https://github.com/railslink/resources/wiki)**: A GitHub repo from Rails Link with many links to resources like books, screencasts, blogs, etc. -___Free___
 - **[The Odin Project](http://www.theodinproject.com/)**: An online course that covers full stack web development (Ruby, Rails, HTML5, CSS3, JavaScript) and helps building a portfolio and getting hired. -___Free___
+- **[GoRails](https://gorails.com/)**: - Rails training videos. -___Free & Paid___
 
 ## Open Source Projects
 Contributing to an open source project is always free and a great way to not only show that you're working, but to also give back to the community.
 
 - **[Speakerline](https://github.com/nodunayo/speakerline)**: An online database of conference speakers & their proposals.
 
+## Mailing Lists and Feeds
+- **[Ruby Weekly](http://rubyweekly.com/)**: - a weekly collection of Ruby news and articles. -___Free___
+- **[Green Ruby](http://greenruby.org/)**: - another weekly collection of news and articles. -___Free___
+- **[Ruby Flow](http://www.rubyflow.com/)**: - a feed of Ruby related news -___Free___
+
 ## Miscellaneous
 - **[Stack Overflow](https://stackoverflow.com)**: An online question forum, a good place to search for answers if you get stuck. -___Free___
 - **[the London Ruby User's Group](http://lrug.org)**: A monthly meetup for Ruby users in London, however even if you're not in London the mailing list is a great source of knowledge. -___Free___ 
 - **[the North West Ruby User's Group](https://groups.google.com/forum/#!forum/nwrug-members)**: A monthly meetup for Ruby Users in the North West of England, held in Manchester, however even if you're not in the North West, the google forum is a great source of knowledge. -___Free___ 
 - **[Ruby on Rails Link](http://www.rubyonrails.link/)**: A Slack community of Ruby on Rails developers from all over the world. -___Free___
+- **[London Learn Ruby Meetup](https://www.meetup.com/London-Learn-Ruby/)**: A weekly Ruby workshop in London with a small group of students learning through a professional Ruby coach. - ___Paid___ 
+- **[London Learn Ruby on Rails Meetup](https://www.meetup.com/London-Learn-Ruby-on-Rails/)**: A weekly Ruby on Rails workshop in London with a small group of students learning through a professional Ruby on Rails coach. - ___Paid___
+- **[Ruby North East Slack Group](http://rubynortheast.co.uk/)**: A Slack group with occasional meetups within North East England. - ___Free___
