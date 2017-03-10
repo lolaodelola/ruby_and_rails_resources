@@ -11,6 +11,7 @@ I know people who have wanted to learn ruby or rails or both and haven't been su
 _(This will be more suited for those who feel comfortable enough to run ruby scripts on their own machines)_
 - **[Why's Poignant Guide to Ruby](http://poignant.guide/book/)**: An online book that's easy to read with lots of comic-like strips and easy to understand phrases.- ___Free___
 - **[Agile Venture's](http://www.agileventures.org)**: A non-profit dedicated to crowdsourced learning and project development by working on client projects. - ***Free & Paid***
+- **[Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)**: An online book for beginners (with exercises) that teaches the basics of Ruby. - ***Free***
 
 ## Rails
 - **[Codecademy](https://codecademy.com)**: An online tutorial site for various coding languages. - ___Free & Paid___ 
