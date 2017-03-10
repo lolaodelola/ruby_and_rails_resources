@@ -18,6 +18,7 @@ _(This will be more suited for those who feel comfortable enough to run ruby scr
 - **[Team Treehouse](https://teamtreehouse.com)**: An online tutorial site for various coding languages. - ___Paid___ 
 - **[Rails API](http://api.rubyonrails.org)**: The Ruby on Rails API, which includes a list of methods and classes. -___Free___ 
 - **[Rails Guide](http://guides.rubyonrails.org)**: The official Rails guide. -___Free___ 
+- **[Ruby on Rails Tutorial](https://www.railstutorial.org/book)**: An introduction to web development using Ruby on Rails. -___Free___
 
 ## Open Source Projects
 Contributing to an open source project is always free and a great way to not only show that you're working, but to also give back to the community.
