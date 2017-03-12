@@ -24,6 +24,7 @@ _(This will be more suited for those who feel comfortable enough to run ruby scr
 - **[Rails Link Resources](https://github.com/railslink/resources/wiki)**: A GitHub repo from Rails Link with many links to resources like books, screencasts, blogs, etc. -___Free___
 - **[The Odin Project](http://www.theodinproject.com/)**: An online course that covers full stack web development (Ruby, Rails, HTML5, CSS3, JavaScript) and helps building a portfolio and getting hired. -___Free___
 - **[GoRails](https://gorails.com/)**: - Rails training videos. -___Free & Paid___
+- **[Upcase](https://thoughtbot.com/upcase)**: - Training videos, exercises and forum on Rails and related subjects like Git, Testing, JavaScript, etc. -___Free & Paid___
 
 ## Open Source Projects
 Contributing to an open source project is always free and a great way to not only show that you're working, but to also give back to the community.
